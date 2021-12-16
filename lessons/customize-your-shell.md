@@ -5,7 +5,7 @@ order: "10B"
 section: "Last Thoughts"
 description: "All engineers love to customize their tools to their absolute perfect liking. Their shells should be no different. Brian shows how to do a few things to make customize bash."
 ---
-
+ 
 All engineers love to customize their tools to their absolute perfect liking. Your shell and emulator should be no different. I'm going to show you a few things you can do to make your shell your own.
 
 ## Prompts
